@@ -1,1 +1,1 @@
-# Kaggle_Mushroom-Classification
+# Kaggle/Mushroom-Classification
